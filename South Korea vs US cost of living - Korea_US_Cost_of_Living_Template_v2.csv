@@ -1,0 +1,49 @@
+Country,City,Category,Item,Cost (in US $),City Tier
+South Korea,Seoul,Housing,1 BR,944.45,Tier 1
+South Korea,Seoul,Housing,3 BR,2574.48,Tier 1
+South Korea,Seoul,Housing,Utilities,163.23,Tier 1
+South Korea,Seoul,Food,Milk (1L),2.18,Tier 1
+South Korea,Seoul,Food,Meal (Inexpensive Restaurant),8.79,Tier 1
+South Korea,Seoul,Food,Rice (1kg),3.24,Tier 1
+South Korea,Seoul,Food,Eggs (12),3.26,Tier 1
+South Korea,Seoul,Transportation,Monthly Transit Pass,46.86,Tier 1
+South Korea,Busan,Housing,1 BR,506.44,Tier 2
+South Korea,Busan,Housing,3 BR,1003.13,Tier 2
+South Korea,Busan,Housing,Utilities,178.27,Tier 2
+South Korea,Busan,Food,Milk (1L),2.3,Tier 2
+South Korea,Busan,Food,Meal (Inexpensive Restaurant),7.14,Tier 2
+South Korea,Busan,Food,Rice (1kg),3.04,Tier 2
+South Korea,Busan,Food,Eggs (12),2.93,Tier 2
+South Korea,Busan,Transportation,Monthly Transit Pass,43.93,Tier 2
+South Korea,Daejeon,Housing,1 BR,366.1,Tier 3
+South Korea,Daejeon,Housing,3 BR,927.47,Tier 3
+South Korea,Daejeon,Housing,Utilities,168.41,Tier 3
+South Korea,Daejeon,Food,Milk (1L),2.09,Tier 3
+South Korea,Daejeon,Food,Meal (Inexpensive Restaurant),7.14,Tier 3
+South Korea,Daejeon,Food,Rice (1kg),2.64,Tier 3
+South Korea,Daejeon,Food,Eggs (12),2.59,Tier 3
+South Korea,Daejeon,Transportation,Monthly Transit Pass,41,Tier 3
+USA,New York,Housing,1 BR,3992.29,Tier 1
+USA,New York,Housing,3 BR,8816.67,Tier 1
+USA,New York,Housing,Utilities,189.37,Tier 1
+USA,New York,Food,Milk (1L),1.55,Tier 1
+USA,New York,Food,Meal (Inexpensive Restaurant),30,Tier 1
+USA,New York,Food,Rice (1kg),8.18,Tier 1
+USA,New York,Food,Eggs (12),6.33,Tier 1
+USA,New York,Transportation,Monthly Transit Pass,132,Tier 1
+USA,Chicago,Housing,1 BR,2319.57,Tier 2
+USA,Chicago,Housing,3 BR,4554.55,Tier 2
+USA,Chicago,Housing,Utilities,191.66,Tier 2
+USA,Chicago,Food,Milk (1L),1.03,Tier 2
+USA,Chicago,Food,Meal (Inexpensive Restaurant),25,Tier 2
+USA,Chicago,Food,Rice (1kg),5.45,Tier 2
+USA,Chicago,Food,Eggs (12),4.49,Tier 2
+USA,Chicago,Transportation,Monthly Transit Pass,75,Tier 2
+USA,Austin,Housing,1 BR,2238.43,Tier 3
+USA,Austin,Housing,3 BR,3860.42,Tier 3
+USA,Austin,Housing,Utilities,185.83,Tier 3
+USA,Austin,Food,Milk (1L),1.13,Tier 3
+USA,Austin,Food,Meal (Inexpensive Restaurant),18,Tier 3
+USA,Austin,Food,Rice (1kg),3.4,Tier 3
+USA,Austin,Food,Eggs (12),4.38,Tier 3
+USA,Austin,Transportation,Monthly Transit Pass,43.48,Tier 3
