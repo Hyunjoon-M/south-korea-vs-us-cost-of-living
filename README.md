@@ -78,7 +78,8 @@ These limitations are noted throughout the dashboard in the tooltips and summary
 ## ✍️ Author
 
 **Hyunjoon Mok**  
-[LinkedIn](https://www.linkedin.com/in/hyunjoon-mok-b29a9a252) 
+[LinkedIn](https://www.linkedin.com/in/hyunjoon-mok-b29a9a252)
+
 [Tableau Public Profile](https://public.tableau.com/app/profile/hyunjoon.mok)
 
 ---
